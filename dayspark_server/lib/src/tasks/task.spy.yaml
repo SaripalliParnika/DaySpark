@@ -1,0 +1,11 @@
+
+class: DayTask
+table: day_task
+fields:
+  title: String
+  description: String?
+  durationMinutes: int
+  priority: int
+  isCompleted: bool
+  createdAt: DateTime
+  userIdentifier: String?

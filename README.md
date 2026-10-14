@@ -1,4 +1,4 @@
-# DaySpark ✨
+# DaySpark 
 
 DaySpark is a productivity app built with Flutter and Serverpod that helps users organize daily tasks, set priorities, track progress, and build consistent habits.
 
